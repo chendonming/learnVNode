@@ -1,0 +1,17 @@
+{
+  "name": "mvvm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc --watch",
+    "examples": "serve ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.3",
+    "typescript": "^5.5.4"
+  }
+}
